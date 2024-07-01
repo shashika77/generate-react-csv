@@ -1,6 +1,6 @@
 {
   "name": "@layankumarasinghe/generate-react-cvs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React js cvs generate",
   "main": "index.js",
   "scripts": {
